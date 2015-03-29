@@ -1,5 +1,5 @@
 {
-    "name": "shubhamjain/php-id3",
+    "name": "banandana/php-id3",
     "description": "A MP3 ID3 tags reader in native PHP",
     "license": "MIT",
     "authors": [
